@@ -1,9 +1,5 @@
 language: node_js
 
-env:
-  global:
-    - NOW_TOKEN=iyib2ohuw
-
 node_js:
   - "10.9.0"
 
